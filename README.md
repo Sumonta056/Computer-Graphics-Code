@@ -15,6 +15,12 @@
 - Practice Work : Shohid Minar Drawing
 - Practice Work : SUST
 
+## Open Jupyter Notebook :
+
+```bash
+jupyter notebook --notebook-dir="E:\Project Works\Computer Graphics"
+```
+
 ## Resources :
 
 - [Computer Graphics with Python](https://github.com/Fazle-Rakib/Computer-Graphics-Basics)
